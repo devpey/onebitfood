@@ -4,6 +4,9 @@
 ## _Projeto desenvolvido na 5ª Semana FullStack do onebitcode onebitcode.com._
 
 ## Ferramentas utilizadas
+## 1. Client
+- [WebApp ReactJs](https://github.com/devpey/onebitfood-client)
+## 2. Back-End
 
 - Ruby 3.0.0
 - rails 6.0.4.1
